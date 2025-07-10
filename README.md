@@ -36,7 +36,7 @@ Built as a sequence of prompts and reflections, this prototype enables AI-driven
 ---
 
 ## 💡 How to Use
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ny-dev-mode/mazeproof/blob/main/mazeproof.ipynb)
 1. Open the prototype notebook in [Google Colab](https://colab.research.google.com/drive/1Kcl9sWEoQw9k95Uil7j_My_ejWAb2gE1)
 2. Navigate through blocks representing input → prompt → output
 3. Use outputs to reflect on strategic alignment, clarity, and behavioral nuance
