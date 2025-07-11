@@ -1,8 +1,6 @@
 # mazeproof
 Evaluation tool for L&amp;D Architects
-# mazeproof
-
-> Evaluation tool for L&D Architects  
+ 
 > _A semantic maze to explore, test, and reflect on strategic learning competencies._
 
 ---
