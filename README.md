@@ -46,7 +46,8 @@ Built as a sequence of prompts and reflections, this prototype enables AI-driven
 
 **Nadya Yakymchuk**  
 Strategic L&D Architect | AI advocate in EdTech | dev-mode active  
-Connect via [LinkedIn](https://www.linkedin.com/in/nadyayakymchuk/) or [ORCID](https://orcid.org/)
+Connect via 📎 [LinkedIn: Nadya Yakimchuk](https://www.linkedin.com/in/nadya-yakimchuk/)
+ or [ORCID](https://orcid.org/)
 
 ---
 
